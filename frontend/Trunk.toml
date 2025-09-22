@@ -1,0 +1,6 @@
+[build]
+public_url = "/timetable-rs/"
+
+[serve]
+port = 8080
+open = true

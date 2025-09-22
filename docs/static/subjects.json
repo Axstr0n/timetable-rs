@@ -1,0 +1,2427 @@
+{
+  "563": {
+    "id": 563,
+    "program_ids": [
+      91
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Trajnostni viri električne energije",
+    "abbr": "TVEM",
+    "url": "/subject/563/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "755": {
+    "id": 755,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 2,
+    "name": "Mehatronika in laserske tehnologije",
+    "abbr": "MLTR",
+    "url": "/subject/755/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "539": {
+    "id": 539,
+    "program_ids": [
+      93
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Aditivne tehnologije",
+    "abbr": "ADTM",
+    "url": "/subject/539/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "529": {
+    "id": 529,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Programski algoritmi in protokoli",
+    "abbr": "PAPM",
+    "url": "/subject/529/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "574": {
+    "id": 574,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Tehnično risanje in računalniško modeliranje geometrije",
+    "abbr": "TRRR",
+    "url": "/subject/574/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "752": {
+    "id": 752,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Energetski stroji in naprave - RRP",
+    "abbr": "ESNR",
+    "url": "/subject/752/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "548": {
+    "id": 548,
+    "program_ids": [
+      94
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Laserska obdelovalna tehnologija",
+    "abbr": "LOTM",
+    "url": "/subject/548/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "557": {
+    "id": 557,
+    "program_ids": [
+      92
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Procesna tehnika",
+    "abbr": "PCTM",
+    "url": "/subject/557/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "524": {
+    "id": 524,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Napredni procesi zgorevanja",
+    "abbr": "NPZM",
+    "url": "/subject/524/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "566": {
+    "id": 566,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Analiza in navadne diferencialne enačbe",
+    "abbr": "ANDR",
+    "url": "/subject/566/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": []
+  },
+  "540": {
+    "id": 540,
+    "program_ids": [
+      94
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Avtomatizacija proizvodnje",
+    "abbr": "AMPM",
+    "url": "/subject/540/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "513": {
+    "id": 513,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Klimatizacija, ogrevanje, ohlajevanje, prezračevanje",
+    "abbr": "KOOM",
+    "url": "/subject/513/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "510": {
+    "id": 510,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Hladilna tehnika in toplotne črpalke - MAG",
+    "abbr": "HTTM",
+    "url": "/subject/510/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "553": {
+    "id": 553,
+    "program_ids": [
+      90
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Numerično modeliranje tehnoloških procesov",
+    "abbr": "NMTM",
+    "url": "/subject/553/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "545": {
+    "id": 545,
+    "program_ids": [
+      89
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Hidravlične komponente in sistemi",
+    "abbr": "HKSM",
+    "url": "/subject/545/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "522": {
+    "id": 522,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Napredni odrezovalni procesi",
+    "abbr": "NOPM",
+    "url": "/subject/522/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "585": {
+    "id": 585,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Poročanje v strojništvu - RRP",
+    "abbr": "PVSR",
+    "url": "/subject/585/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "509": {
+    "id": 509,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Geometrijske specifikacije proizvodov",
+    "abbr": "GSPM",
+    "url": "/subject/509/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "542": {
+    "id": 542,
+    "program_ids": [
+      90
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Eksperimentalna modalna analiza",
+    "abbr": "EMAM",
+    "url": "/subject/542/?day=2025-09-29",
+    "tutorial_groups": [],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "583": {
+    "id": 583,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Numerične metode",
+    "abbr": "NMMR",
+    "url": "/subject/583/?day=2025-09-29",
+    "tutorial_groups": [],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "521": {
+    "id": 521,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Nanotehnologije",
+    "abbr": "NNTM",
+    "url": "/subject/521/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "561": {
+    "id": 561,
+    "program_ids": [
+      89
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Sestavljena gonila v mobilni tehniki",
+    "abbr": "SGMM",
+    "url": "/subject/561/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "564": {
+    "id": 564,
+    "program_ids": [
+      92
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Večfazni sistemi",
+    "abbr": "VFSM",
+    "url": "/subject/564/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "759": {
+    "id": 759,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 2,
+    "name": "Okoljsko inženirstvo",
+    "abbr": "OKIR",
+    "url": "/subject/759/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "518": {
+    "id": 518,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Mikroizdelovalne tehnologije",
+    "abbr": "MITM",
+    "url": "/subject/518/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "514": {
+    "id": 514,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Konstruiranje naprednih sistemov",
+    "abbr": "KNSM",
+    "url": "/subject/514/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "538": {
+    "id": 538,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Višja trdnost",
+    "abbr": "VSTM",
+    "url": "/subject/538/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "555": {
+    "id": 555,
+    "program_ids": [
+      93
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Pametne tovarne",
+    "abbr": "PMTM",
+    "url": "/subject/555/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "760": {
+    "id": 760,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Pogoni",
+    "abbr": "PGNR",
+    "url": "/subject/760/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "589": {
+    "id": 589,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Strojni elementi 2 - RRP",
+    "abbr": "SE2R",
+    "url": "/subject/589/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "584": {
+    "id": 584,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Parcialne diferencialne enačbe, kompleksna analiza in optimizacija",
+    "abbr": "PDER",
+    "url": "/subject/584/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "533": {
+    "id": 533,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Termodinamika zmesi",
+    "abbr": "TDZM",
+    "url": "/subject/533/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "516": {
+    "id": 516,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Laserski sistemi",
+    "abbr": "LSSM",
+    "url": "/subject/516/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "575": {
+    "id": 575,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Termodinamika",
+    "abbr": "TMDR",
+    "url": "/subject/575/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "535": {
+    "id": 535,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Transportni pojavi",
+    "abbr": "TRPM",
+    "url": "/subject/535/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "762": {
+    "id": 762,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Tribologija",
+    "abbr": "TRBR",
+    "url": "/subject/762/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "536": {
+    "id": 536,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Turbinski stroji",
+    "abbr": "TRSM",
+    "url": "/subject/536/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "588": {
+    "id": 588,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Strojni elementi 1 - RRP",
+    "abbr": "SE1R",
+    "url": "/subject/588/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "531": {
+    "id": 531,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Robotski sistemi - MAG",
+    "abbr": "RBSM",
+    "url": "/subject/531/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "515": {
+    "id": 515,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Konstrukcijske tehnike",
+    "abbr": "KNTM",
+    "url": "/subject/515/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "569": {
+    "id": 569,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Kovinski materiali - RRP",
+    "abbr": "KVMR",
+    "url": "/subject/569/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "517": {
+    "id": 517,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Mehanika konstrukcijskih elementov",
+    "abbr": "MKEM",
+    "url": "/subject/517/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "570": {
+    "id": 570,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Linearna algebra in vektorska analiza",
+    "abbr": "LAVR",
+    "url": "/subject/570/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": []
+  },
+  "528": {
+    "id": 528,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Procesiranje signalov",
+    "abbr": "PRSM",
+    "url": "/subject/528/?day=2026-02-16",
+    "tutorial_groups": [],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "541": {
+    "id": 541,
+    "program_ids": [
+      93
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "CAM sistemi",
+    "abbr": "CAMM",
+    "url": "/subject/541/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "582": {
+    "id": 582,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Metodika konstruiranja - RRP",
+    "abbr": "MTKR",
+    "url": "/subject/582/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "581": {
+    "id": 581,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Krmilna tehnika",
+    "abbr": "KRTR",
+    "url": "/subject/581/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "508": {
+    "id": 508,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Fotonika in laserski izvori",
+    "abbr": "FLIM",
+    "url": "/subject/508/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "530": {
+    "id": 530,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Računalniška dinamika tekočin",
+    "abbr": "RDTM",
+    "url": "/subject/530/?day=2026-02-16",
+    "tutorial_groups": [],
+    "lab_groups": [
+      1,
+      2
+    ]
+  },
+  "503": {
+    "id": 503,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Analiza konstrukcij z MKE",
+    "abbr": "AKMM",
+    "url": "/subject/503/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "537": {
+    "id": 537,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Višja dinamika",
+    "abbr": "VSDM",
+    "url": "/subject/537/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "504": {
+    "id": 504,
+    "program_ids": [
+      84
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Dinamika strojev in konstrukcij",
+    "abbr": "DSKM",
+    "url": "/subject/504/?day=2026-02-16",
+    "tutorial_groups": [],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "586": {
+    "id": 586,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Prenos toplote",
+    "abbr": "PRTR",
+    "url": "/subject/586/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "577": {
+    "id": 577,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Dinamika togih teles",
+    "abbr": "DTTR",
+    "url": "/subject/577/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "753": {
+    "id": 753,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Hidravlika in pnevmatika - RRP",
+    "abbr": "HDPR",
+    "url": "/subject/753/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "546": {
+    "id": 546,
+    "program_ids": [
+      93
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Inženirstvo kakovosti",
+    "abbr": "INKM",
+    "url": "/subject/546/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "519": {
+    "id": 519,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Mikroprocesorska krmilja",
+    "abbr": "MPKM",
+    "url": "/subject/519/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "718": {
+    "id": 718,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Športna vzgoja 1. RR",
+    "abbr": "ŠV1R",
+    "url": "/subject/718/?day=2025-10-06",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": []
+  },
+  "507": {
+    "id": 507,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Energetski sistemi",
+    "abbr": "ENSM",
+    "url": "/subject/507/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "552": {
+    "id": 552,
+    "program_ids": [
+      94
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Napredni senzorski sistemi in omrežja",
+    "abbr": "NSSM",
+    "url": "/subject/552/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "556": {
+    "id": 556,
+    "program_ids": [
+      92
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Prenosniki toplote",
+    "abbr": "PRTM",
+    "url": "/subject/556/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "551": {
+    "id": 551,
+    "program_ids": [
+      90
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Mehanika lahkih struktur",
+    "abbr": "MLSM",
+    "url": "/subject/551/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3
+    ]
+  },
+  "571": {
+    "id": 571,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Meritve v strojništvu",
+    "abbr": "MVSR",
+    "url": "/subject/571/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "757": {
+    "id": 757,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Napredna računalniška orodja",
+    "abbr": "NROR",
+    "url": "/subject/757/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "756": {
+    "id": 756,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Metode numeričnega modeliranja",
+    "abbr": "MNMR",
+    "url": "/subject/756/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "554": {
+    "id": 554,
+    "program_ids": [
+      92
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Pametna mesta",
+    "abbr": "PMMM",
+    "url": "/subject/554/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "587": {
+    "id": 587,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Statika in dinamika tekočin",
+    "abbr": "SDTR",
+    "url": "/subject/587/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "511": {
+    "id": 511,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Inženiring površin in kontaktov",
+    "abbr": "IPKM",
+    "url": "/subject/511/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "534": {
+    "id": 534,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Toplotna obdelava",
+    "abbr": "TPOM",
+    "url": "/subject/534/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "580": {
+    "id": 580,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Izdelovalne tehnologije 1",
+    "abbr": "IT1R",
+    "url": "/subject/580/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "560": {
+    "id": 560,
+    "program_ids": [
+      90
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Reologija polimerov",
+    "abbr": "RLPM",
+    "url": "/subject/560/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "506": {
+    "id": 506,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Eksperimentalno modeliranje v EPS",
+    "abbr": "EKMM",
+    "url": "/subject/506/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "547": {
+    "id": 547,
+    "program_ids": [
+      89
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Lahke konstrukcije",
+    "abbr": "LKNM",
+    "url": "/subject/547/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2
+    ]
+  },
+  "576": {
+    "id": 576,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Trdnost",
+    "abbr": "TRDR",
+    "url": "/subject/576/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "527": {
+    "id": 527,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Procesi v toplotnih motorjih",
+    "abbr": "PTMM",
+    "url": "/subject/527/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "573": {
+    "id": 573,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Statika in kinematika",
+    "abbr": "STKR",
+    "url": "/subject/573/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "758": {
+    "id": 758,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 2,
+    "name": "Obdelava in vrednotenje podatkov",
+    "abbr": "OVPR",
+    "url": "/subject/758/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "761": {
+    "id": 761,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 2,
+    "name": "Proizvodno inženirstvo",
+    "abbr": "PRIR",
+    "url": "/subject/761/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "543": {
+    "id": 543,
+    "program_ids": [
+      91
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Elektromobilnost",
+    "abbr": "ELMM",
+    "url": "/subject/543/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "579": {
+    "id": 579,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 1,
+    "name": "Integralske transformacije in Fourierova analiza",
+    "abbr": "ITFR",
+    "url": "/subject/579/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": []
+  },
+  "568": {
+    "id": 568,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 1,
+    "name": "Fizika",
+    "abbr": "FZKR",
+    "url": "/subject/568/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "532": {
+    "id": 532,
+    "program_ids": [
+      86
+    ],
+    "main_program_id": 0,
+    "semester": 1,
+    "name": "Solarne tehnologije",
+    "abbr": "SLTM",
+    "url": "/subject/532/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "562": {
+    "id": 562,
+    "program_ids": [
+      91
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Tehniška akustika",
+    "abbr": "THAM",
+    "url": "/subject/562/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "754": {
+    "id": 754,
+    "program_ids": [
+      82
+    ],
+    "main_program_id": 4,
+    "semester": 1,
+    "name": "Izdelovalne tehnologije 2",
+    "abbr": "IT2R",
+    "url": "/subject/754/?day=2025-09-29",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "565": {
+    "id": 565,
+    "program_ids": [
+      89
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Vrednotenje na zanesljivost",
+    "abbr": "VNZM",
+    "url": "/subject/565/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "549": {
+    "id": 549,
+    "program_ids": [
+      94
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Laserski merilni sistemi",
+    "abbr": "LMSM",
+    "url": "/subject/549/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "523": {
+    "id": 523,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Napredni preoblikovalni procesi",
+    "abbr": "NPPM",
+    "url": "/subject/523/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "526": {
+    "id": 526,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Planiranje in organizacija proizvodnje",
+    "abbr": "POPM",
+    "url": "/subject/526/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "520": {
+    "id": 520,
+    "program_ids": [
+      87
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Montažni in strežni sistemi",
+    "abbr": "MSSM",
+    "url": "/subject/520/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "505": {
+    "id": 505,
+    "program_ids": [
+      88
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Diskretni krmilni sistemi",
+    "abbr": "DKSM",
+    "url": "/subject/505/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "525": {
+    "id": 525,
+    "program_ids": [
+      83
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Obratovalna trdnost",
+    "abbr": "OBTM",
+    "url": "/subject/525/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "578": {
+    "id": 578,
+    "program_ids": [
+      81
+    ],
+    "main_program_id": 3,
+    "semester": 2,
+    "name": "Inoviranje v strojništvu - RRP",
+    "abbr": "IVSR",
+    "url": "/subject/578/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": []
+  },
+  "572": {
+    "id": 572,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Nekovinski materiali - RRP",
+    "abbr": "NKMR",
+    "url": "/subject/572/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "544": {
+    "id": 544,
+    "program_ids": [
+      91
+    ],
+    "main_program_id": 1,
+    "semester": 1,
+    "name": "Energetika v krožnem gospodarstvu",
+    "abbr": "EKGM",
+    "url": "/subject/544/?day=2025-09-29",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "567": {
+    "id": 567,
+    "program_ids": [
+      80
+    ],
+    "main_program_id": 2,
+    "semester": 2,
+    "name": "Elektrotehnika",
+    "abbr": "ELTR",
+    "url": "/subject/567/?day=2026-02-16",
+    "tutorial_groups": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "512": {
+    "id": 512,
+    "program_ids": [
+      85
+    ],
+    "main_program_id": 0,
+    "semester": 2,
+    "name": "Kemični nosilci energije",
+    "abbr": "KNEM",
+    "url": "/subject/512/?day=2026-02-16",
+    "tutorial_groups": [
+      1
+    ],
+    "lab_groups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

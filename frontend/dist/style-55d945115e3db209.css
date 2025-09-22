@@ -1,0 +1,367 @@
+
+:root{
+    --bg1: rgb(60, 60, 60);
+    --bg2: rgb(30,30,30);
+    --subject-select: rgb(60,60,60);
+    --day-width: 20.00%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+button{cursor: pointer;}
+
+body{
+    min-width: 1000px;
+    background-color: var(--bg1);
+}
+/* ----------------------------------------------------------------------------- */
+/* HEADER */
+/* ----------------------------------------------------------------------------- */
+
+.header{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center;
+    position: relative; */
+    justify-content: space-between;
+    width: 100%;
+    height: 25px;
+    padding-top: 3px;
+}
+.header .logo-container{
+    background-color: rgb(96, 96, 96);
+    border-radius: 5px;
+    /* position: absolute; */
+    height: 100%;
+    text-decoration: none;
+    /* top: 3px;
+    left: 3px; */
+}
+.header .logo-container img{
+    height: 100%;
+}
+.header .title{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.header .download-save-discard-select{
+    display: flex;
+    height: 80%;
+    justify-content: space-between;
+    gap: 2px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* SUBJECT ABBREVIATION */
+/* ----------------------------------------------------------------------------- */
+
+#subjects-abbreviation-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    padding-bottom: 5px;
+    /* flex-wrap: wrap; */
+    width: 93%;
+    margin: auto;
+}
+.abbreviation-button{
+    display: inline-block;
+    border: solid 2px transparent;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.abbreviation-button.active-button{
+    font-weight: bold;
+    border: solid 2px black;
+}
+
+/* SUBJECT SELECTOR */
+#subjects-container{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    overflow-x: scroll;
+}
+
+.subject-select-container{
+    display: inline-flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    background-color: lightcoral;
+    min-width: 250px;
+    /* max-width: 400px; */
+    /* min-width: 250px; */
+    padding: 3px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.subject-select-container button{
+    background-color: rgb(211, 43, 14);
+    border: none;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 5px;
+}
+.subject-select-container button.active-button{
+    background-color: rgb(77, 170, 224)
+}
+.subject-select-container .direction-label{
+    font-size: 12px;
+}
+
+.subject-select-container .title{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.subject-select-container .label{
+    font-weight: bold;
+    width: 20px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subject-select-container .buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+}
+.exercise-button {
+    
+}
+
+/* .subject-select-container .lecture-container{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    margin-bottom: 2px;
+} */
+
+.subject-select-container .exercises-container{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    margin-bottom: 2px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* CALENDAR*/
+/* ----------------------------------------------------------------------------- */
+
+#calendar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3px;
+}
+#calendar-previous-button, #calendar-next-button{
+    padding: 4px 10px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    height: 100%;
+    border: none;
+    font-weight: bold;
+}
+#current-week{
+    width: 300px;
+    padding: 3px 3px;
+    margin: 0px 5px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-weight: bold;
+    border-radius: 3px;
+    height: 100%;
+}
+
+
+/* ----------------------------------------------------------------------------- */
+/* TIMETABLE*/
+/* ----------------------------------------------------------------------------- */
+
+#timetable-wrapper{
+    position: relative;
+    flex: 1;
+    min-width: 1024px;
+    min-height: 600px;
+    background-color: whitesmoke;
+}
+
+#timetable{
+    position: absolute;
+    left: 2.5%;
+    top: 1%;
+    width: 95%;
+    height: 90%; /*control bottom space*/
+}
+#days{
+    position: absolute;
+    top: 0;
+    left: 3%;
+    width: 97%;
+    height: 100%;
+}
+.day{
+    position: absolute;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #ddd;
+    width: var(--day-width);
+    font-weight: bold;
+}
+.day-work-free{
+    background-color: rgba(141, 141, 141, 0.3);
+}
+#hours{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 5%;
+    height: 95%;
+}
+.hour{
+    position: absolute;
+    border-bottom: solid 1px #ddd;
+    width: 100%;
+}
+.hour span{
+    width: 2.5%;
+    text-align: right;
+    position: relative;
+    display: block;
+    bottom: -1.5em;
+    left: 0;
+}
+.hour-dashed {
+    position: absolute;
+    border-bottom: dashed 1px #ddd;
+    width: 97%;
+    left: 3.00%;
+}
+#entries{
+    position: absolute;
+    top: 5%;
+    height: 95%;
+    left: 3%;
+    width: 97%;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* ENTRY*/
+/* ----------------------------------------------------------------------------- */
+
+.entry-box{
+    position: absolute;
+    /*left: 0;
+    width: 20%;
+    height: 15.3826%;
+    top: 7.6923%;*/
+    border-radius: 10px;
+}
+.entry{
+    padding: 4px;
+    color: black;
+    font-size: 12px;
+    /*word-break: break-all;*/
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    /*border: solid 1px black;
+    box-shadow: 0 0 5px black;
+    height: 90%;*/
+    border-radius: 10px;
+}
+.lecture{
+    border: solid 1px black;
+    /* box-shadow: inset 0 0 5px black; */
+}
+.exercise{
+    border: solid 1px transparent;
+    /* box-shadow: inset 0 0 5px black; */
+}
+.subject-title-type-group{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.subject-title-type-group .subject-title{
+    margin-right: 2px;
+    font-weight: bold;
+    /* flex: 1; */
+    /* hyphens: auto;
+    word-break: break-word; */
+    min-width: 0;
+}
+.subject-type{
+    margin-right: 2px;
+    min-width: 0;
+}
+.subject-group{
+    min-width: 0;
+}
+.subject-time{
+    margin-bottom: -2px;
+}
+.subject-classroom{
+    
+}
+
+/* ----------------------------------------------------------------------------- */
+/* AUTHOR */
+/* ----------------------------------------------------------------------------- */
+
+.author-mark{
+    position: absolute;
+    right: 10px;
+    bottom: 15px;
+    display: flex;
+    align-items: end;
+}
+.made-by{
+    margin-right: 5px;
+    font-size: 12px;
+}
+.author{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* SCROLLBAR */
+/* ----------------------------------------------------------------------------- */
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: var(--bg1);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--bg2);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(80,80,80);
+}

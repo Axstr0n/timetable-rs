@@ -1,0 +1,15 @@
+[package]
+name = "scraper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+scraper = "0.24"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = "0.4.42"
+bimap = "0.6.3"
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json", "gzip", "brotli", "cookies", "blocking"] }
+shared = { path = "../shared" }

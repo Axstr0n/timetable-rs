@@ -1,0 +1,26 @@
+[package]
+name = "frontend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+yew = { version = "0.21", features = ["csr"] }
+chrono = "0.4.42"
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+serde-wasm-bindgen = "0.6.5"
+serde = "1.0.225"
+serde_json = "1.0"
+gloo = "0.11"
+js-sys = "0.3"
+web-sys = { version = "0.3.79", features = [
+    "HtmlSelectElement",
+    "Document",
+    "HtmlElement",
+    "HtmlAnchorElement",
+    "HtmlCanvasElement",
+    "Window",
+    "CssStyleDeclaration",
+] }
+shared = { path = "../shared" }
+

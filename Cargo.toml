@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "shared", # definitions used in scraper and frontend
+    "scraper", # scraper that gets the data
+    "frontend", # frontend displays the data
+]
+resolver = "2"

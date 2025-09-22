@@ -1,0 +1,122 @@
+{
+  "80": {
+    "id": 80,
+    "name": "RRP-1",
+    "full_name": "RRP-1 (RRP-1) (RRP-1)",
+    "abbr": "RRP-1",
+    "url": "/layer_one/80/",
+    "main_program_id": 2
+  },
+  "85": {
+    "id": 85,
+    "name": "Energetsko strojništvo",
+    "full_name": "Energetsko strojništvo (MAG-1) (ENS-MAG)",
+    "abbr": "ENS-MAG",
+    "url": "/layer_one/85/",
+    "main_program_id": 0
+  },
+  "86": {
+    "id": 86,
+    "name": "Procesno strojništvo",
+    "full_name": "Procesno strojništvo (MAG-1) (PCS-MAG)",
+    "abbr": "PCS-MAG",
+    "url": "/layer_one/86/",
+    "main_program_id": 0
+  },
+  "92": {
+    "id": 92,
+    "name": "Procesno strojništvo",
+    "full_name": "Procesno strojništvo (MAG-2) (PCS-MAG)",
+    "abbr": "PCS-MAG",
+    "url": "/layer_one/92/",
+    "main_program_id": 1
+  },
+  "93": {
+    "id": 93,
+    "name": "Proizvodno strojništvo",
+    "full_name": "Proizvodno strojništvo (MAG-2) (PRS-MAG)",
+    "abbr": "PRS-MAG",
+    "url": "/layer_one/93/",
+    "main_program_id": 1
+  },
+  "82": {
+    "id": 82,
+    "name": "RRP-3",
+    "full_name": "RRP-3 (RRP-3) (RRP-3)",
+    "abbr": "RRP-3",
+    "url": "/layer_one/82/",
+    "main_program_id": 4
+  },
+  "83": {
+    "id": 83,
+    "name": "Konstruiranje",
+    "full_name": "Konstruiranje (MAG-1) (KON-MAG)",
+    "abbr": "KON-MAG",
+    "url": "/layer_one/83/",
+    "main_program_id": 0
+  },
+  "89": {
+    "id": 89,
+    "name": "Konstruiranje",
+    "full_name": "Konstruiranje (MAG-2) (KON-MAG)",
+    "abbr": "KON-MAG",
+    "url": "/layer_one/89/",
+    "main_program_id": 1
+  },
+  "81": {
+    "id": 81,
+    "name": "RRP-2",
+    "full_name": "RRP-2 (RRP-2) (RRP-2)",
+    "abbr": "RRP-2",
+    "url": "/layer_one/81/",
+    "main_program_id": 3
+  },
+  "87": {
+    "id": 87,
+    "name": "Proizvodno strojništvo",
+    "full_name": "Proizvodno strojništvo (MAG-1) (PRS-MAG)",
+    "abbr": "PRS-MAG",
+    "url": "/layer_one/87/",
+    "main_program_id": 0
+  },
+  "91": {
+    "id": 91,
+    "name": "Energetsko strojništvo",
+    "full_name": "Energetsko strojništvo (MAG-2) (ENS-MAG)",
+    "abbr": "ENS-MAG",
+    "url": "/layer_one/91/",
+    "main_program_id": 1
+  },
+  "90": {
+    "id": 90,
+    "name": "Mehanika",
+    "full_name": "Mehanika (MAG-2) (MEH-MAG)",
+    "abbr": "MEH-MAG",
+    "url": "/layer_one/90/",
+    "main_program_id": 1
+  },
+  "88": {
+    "id": 88,
+    "name": "Mehatronika in laserska tehnika",
+    "full_name": "Mehatronika in laserska tehnika (MAG-1) (MLT-MAG)",
+    "abbr": "MLT-MAG",
+    "url": "/layer_one/88/",
+    "main_program_id": 0
+  },
+  "94": {
+    "id": 94,
+    "name": "Mehatronika in laserska tehnika",
+    "full_name": "Mehatronika in laserska tehnika (MAG-2) (MLT-MAG)",
+    "abbr": "MLT-MAG",
+    "url": "/layer_one/94/",
+    "main_program_id": 1
+  },
+  "84": {
+    "id": 84,
+    "name": "Mehanika",
+    "full_name": "Mehanika (MAG-1) (MEH-MAG)",
+    "abbr": "MEH-MAG",
+    "url": "/layer_one/84/",
+    "main_program_id": 0
+  }
+}

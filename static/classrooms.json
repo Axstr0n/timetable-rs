@@ -1,0 +1,507 @@
+{
+  "185": {
+    "id": 185,
+    "full_name": "Računalniška predavalnica LECAD / LASOK III/1",
+    "url": "/classroom/185/"
+  },
+  "210": {
+    "id": 210,
+    "full_name": "Laboratorij TINT TiNT 2",
+    "url": "/classroom/210/"
+  },
+  "205": {
+    "id": 205,
+    "full_name": "Laboratorij LASEM IV/5",
+    "url": "/classroom/205/"
+  },
+  "187": {
+    "id": 187,
+    "full_name": "Predavalnica III/3A",
+    "url": "/classroom/187/"
+  },
+  "235": {
+    "id": 235,
+    "full_name": "Laboratorij LAT K-1A",
+    "url": "/classroom/235/"
+  },
+  "258": {
+    "id": 258,
+    "full_name": "Laboratorij LTT K-9A",
+    "url": "/classroom/258/"
+  },
+  "222": {
+    "id": 222,
+    "full_name": "Laboratorij LAMPA SP-45",
+    "url": "/classroom/222/"
+  },
+  "214": {
+    "id": 214,
+    "full_name": "Laboratorij LTE SI-60A",
+    "url": "/classroom/214/"
+  },
+  "271": {
+    "id": 271,
+    "full_name": "Laboratorij LAHDE K-1A-I",
+    "url": "/classroom/271/"
+  },
+  "259": {
+    "id": 259,
+    "full_name": "Laboratorij LTT III/8",
+    "url": "/classroom/259/"
+  },
+  "269": {
+    "id": 269,
+    "full_name": "UL FMF",
+    "url": "/classroom/269/"
+  },
+  "241": {
+    "id": 241,
+    "full_name": "Laboratorij LATOP SII-83",
+    "url": "/classroom/241/"
+  },
+  "238": {
+    "id": 238,
+    "full_name": "Laboratorij LAVAR SK-11",
+    "url": "/classroom/238/"
+  },
+  "201": {
+    "id": 201,
+    "full_name": "Laboratorij LANEM P-17F",
+    "url": "/classroom/201/"
+  },
+  "237": {
+    "id": 237,
+    "full_name": "Laboratorij LASIM DS-N1",
+    "url": "/classroom/237/"
+  },
+  "190": {
+    "id": 190,
+    "full_name": "Predavalnica IV/2",
+    "url": "/classroom/190/"
+  },
+  "243": {
+    "id": 243,
+    "full_name": "Laboratorij LATOP SII-86",
+    "url": "/classroom/243/"
+  },
+  "266": {
+    "id": 266,
+    "full_name": "Laboratorij CEM F13-3/K1.4.2",
+    "url": "/classroom/266/"
+  },
+  "268": {
+    "id": 268,
+    "full_name": "Telovadnica Rožna dolina",
+    "url": "/classroom/268/"
+  },
+  "225": {
+    "id": 225,
+    "full_name": "Laboratorij LAMPA SP-30",
+    "url": "/classroom/225/"
+  },
+  "244": {
+    "id": 244,
+    "full_name": "Laboratorij LATOP SII-87",
+    "url": "/classroom/244/"
+  },
+  "186": {
+    "id": 186,
+    "full_name": "Predavalnica III/2",
+    "url": "/classroom/186/"
+  },
+  "217": {
+    "id": 217,
+    "full_name": "Laboratirij LICEM SK-15",
+    "url": "/classroom/217/"
+  },
+  "200": {
+    "id": 200,
+    "full_name": "Laboratorij LADISK P-17C",
+    "url": "/classroom/200/"
+  },
+  "208": {
+    "id": 208,
+    "full_name": "Laboratorij LAMEK, LAPN III/5",
+    "url": "/classroom/208/"
+  },
+  "253": {
+    "id": 253,
+    "full_name": "Laboratorij LFDT K-1B",
+    "url": "/classroom/253/"
+  },
+  "179": {
+    "id": 179,
+    "full_name": "Računalniška predavalnica LADISK  I/4B",
+    "url": "/classroom/179/"
+  },
+  "261": {
+    "id": 261,
+    "full_name": "Laboratorij FOLAS S/P-25",
+    "url": "/classroom/261/"
+  },
+  "264": {
+    "id": 264,
+    "full_name": "Laboratorij AEROL P-17D",
+    "url": "/classroom/264/"
+  },
+  "257": {
+    "id": 257,
+    "full_name": "Laboratorij LTT SK-18",
+    "url": "/classroom/257/"
+  },
+  "278": {
+    "id": 278,
+    "full_name": "UL EF",
+    "url": "/classroom/278/"
+  },
+  "273": {
+    "id": 273,
+    "full_name": "Laboratorij LADISK NZ-K-12",
+    "url": "/classroom/273/"
+  },
+  "227": {
+    "id": 227,
+    "full_name": "Laboratorij LAMPA SII-82A",
+    "url": "/classroom/227/"
+  },
+  "198": {
+    "id": 198,
+    "full_name": "Laboratorij LASIN SP-43",
+    "url": "/classroom/198/"
+  },
+  "263": {
+    "id": 263,
+    "full_name": "Laboratorij LASTEH I/6",
+    "url": "/classroom/263/"
+  },
+  "248": {
+    "id": 248,
+    "full_name": "Laboratorij LATOP SII-92",
+    "url": "/classroom/248/"
+  },
+  "213": {
+    "id": 213,
+    "full_name": "Laboratorij LFT SK-9",
+    "url": "/classroom/213/"
+  },
+  "220": {
+    "id": 220,
+    "full_name": "Laboratorij LVTS Lab. za hidravliko",
+    "url": "/classroom/220/"
+  },
+  "204": {
+    "id": 204,
+    "full_name": "Laboratorij LASEM K-15B",
+    "url": "/classroom/204/"
+  },
+  "262": {
+    "id": 262,
+    "full_name": "Laboratorij LASTEH K-15A",
+    "url": "/classroom/262/"
+  },
+  "203": {
+    "id": 203,
+    "full_name": "Laboratorij LNMS N-21",
+    "url": "/classroom/203/"
+  },
+  "215": {
+    "id": 215,
+    "full_name": "Laboratorij LTE SI-67",
+    "url": "/classroom/215/"
+  },
+  "267": {
+    "id": 267,
+    "full_name": "Laboratorij CEM F13-3/K1.4.4",
+    "url": "/classroom/267/"
+  },
+  "246": {
+    "id": 246,
+    "full_name": "Laboratorij LATOP SII-89",
+    "url": "/classroom/246/"
+  },
+  "275": {
+    "id": 275,
+    "full_name": "Mala sejna soba",
+    "url": "/classroom/275/"
+  },
+  "180": {
+    "id": 180,
+    "full_name": "Računalniška predavalnica LNMS II/1",
+    "url": "/classroom/180/"
+  },
+  "195": {
+    "id": 195,
+    "full_name": "Predavalnica V/8",
+    "url": "/classroom/195/"
+  },
+  "182": {
+    "id": 182,
+    "full_name": "Predavalnica II/3A",
+    "url": "/classroom/182/"
+  },
+  "251": {
+    "id": 251,
+    "full_name": "Laboratorij LMPS P-1",
+    "url": "/classroom/251/"
+  },
+  "230": {
+    "id": 230,
+    "full_name": "Laboratorij LAP SII-78",
+    "url": "/classroom/230/"
+  },
+  "207": {
+    "id": 207,
+    "full_name": "Laboratorij LECAD III/6",
+    "url": "/classroom/207/"
+  },
+  "194": {
+    "id": 194,
+    "full_name": "Predavalnica V/2",
+    "url": "/classroom/194/"
+  },
+  "232": {
+    "id": 232,
+    "full_name": "Laboratorij LABOD SP-DL-2",
+    "url": "/classroom/232/"
+  },
+  "279": {
+    "id": 279,
+    "full_name": "Laboratorij AEROL 809",
+    "url": "/classroom/279/"
+  },
+  "223": {
+    "id": 223,
+    "full_name": "Laboratorij LAMPA SP-46",
+    "url": "/classroom/223/"
+  },
+  "252": {
+    "id": 252,
+    "full_name": "Laboratorij LMPS VP-11",
+    "url": "/classroom/252/"
+  },
+  "206": {
+    "id": 206,
+    "full_name": "Laboratorij LAVEK IV/6",
+    "url": "/classroom/206/"
+  },
+  "276": {
+    "id": 276,
+    "full_name": "Predavalnica II/5",
+    "url": "/classroom/276/"
+  },
+  "193": {
+    "id": 193,
+    "full_name": "Predavalnica IV/4",
+    "url": "/classroom/193/"
+  },
+  "231": {
+    "id": 231,
+    "full_name": "Laboratorij LABOD SP-DL-1",
+    "url": "/classroom/231/"
+  },
+  "236": {
+    "id": 236,
+    "full_name": "Laboratorij LASIM SK-13",
+    "url": "/classroom/236/"
+  },
+  "280": {
+    "id": 280,
+    "full_name": "Računalniška predavalnica SP-24",
+    "url": "/classroom/280/"
+  },
+  "219": {
+    "id": 219,
+    "full_name": "Laboratorij LVTS SI-67A",
+    "url": "/classroom/219/"
+  },
+  "189": {
+    "id": 189,
+    "full_name": "Predavalnica III/4",
+    "url": "/classroom/189/"
+  },
+  "277": {
+    "id": 277,
+    "full_name": "Laboratorij LAHDE K-1A-II",
+    "url": "/classroom/277/"
+  },
+  "228": {
+    "id": 228,
+    "full_name": "Laboratorij LAP SP-70",
+    "url": "/classroom/228/"
+  },
+  "245": {
+    "id": 245,
+    "full_name": "Laboratorij LATOP SII-88",
+    "url": "/classroom/245/"
+  },
+  "265": {
+    "id": 265,
+    "full_name": "Laboratorij LAZAK SP-42",
+    "url": "/classroom/265/"
+  },
+  "254": {
+    "id": 254,
+    "full_name": "Laboratorij LFDT K-2",
+    "url": "/classroom/254/"
+  },
+  "209": {
+    "id": 209,
+    "full_name": "Laboratorij TINT TiNT 1",
+    "url": "/classroom/209/"
+  },
+  "229": {
+    "id": 229,
+    "full_name": "Laboratorij LAP SP-39",
+    "url": "/classroom/229/"
+  },
+  "272": {
+    "id": 272,
+    "full_name": "Leskovarjeva soba",
+    "url": "/classroom/272/"
+  },
+  "188": {
+    "id": 188,
+    "full_name": "Predavalnica III/3B",
+    "url": "/classroom/188/"
+  },
+  "191": {
+    "id": 191,
+    "full_name": "Predavalnica IV/3A",
+    "url": "/classroom/191/"
+  },
+  "199": {
+    "id": 199,
+    "full_name": "Laboratorij LADISK P-17B",
+    "url": "/classroom/199/"
+  },
+  "216": {
+    "id": 216,
+    "full_name": "Laboratorij LDSTA SP-72",
+    "url": "/classroom/216/"
+  },
+  "255": {
+    "id": 255,
+    "full_name": "Laboratorij LFDT K-3",
+    "url": "/classroom/255/"
+  },
+  "218": {
+    "id": 218,
+    "full_name": "Laboratirij LICEM SK-20",
+    "url": "/classroom/218/"
+  },
+  "247": {
+    "id": 247,
+    "full_name": "Laboratorij LATOP SII-91",
+    "url": "/classroom/247/"
+  },
+  "249": {
+    "id": 249,
+    "full_name": "Laboratorij LATOP SK-29",
+    "url": "/classroom/249/"
+  },
+  "260": {
+    "id": 260,
+    "full_name": "Laboratorij FOLAS VP-19",
+    "url": "/classroom/260/"
+  },
+  "256": {
+    "id": 256,
+    "full_name": "Laboratorij LOTZ DS-N3",
+    "url": "/classroom/256/"
+  },
+  "212": {
+    "id": 212,
+    "full_name": "Laboratorij TINT TiNT 4",
+    "url": "/classroom/212/"
+  },
+  "281": {
+    "id": 281,
+    "full_name": "Pametna učilnica DS-K2 K3",
+    "url": "/classroom/281/"
+  },
+  "233": {
+    "id": 233,
+    "full_name": "Laboratorij LAT SP-40",
+    "url": "/classroom/233/"
+  },
+  "181": {
+    "id": 181,
+    "full_name": "Predavalnica II/2",
+    "url": "/classroom/181/"
+  },
+  "184": {
+    "id": 184,
+    "full_name": "Predavalnica II/4",
+    "url": "/classroom/184/"
+  },
+  "242": {
+    "id": 242,
+    "full_name": "Laboratorij LATOP SII-85",
+    "url": "/classroom/242/"
+  },
+  "211": {
+    "id": 211,
+    "full_name": "Laboratorij TINT TiNT 3",
+    "url": "/classroom/211/"
+  },
+  "221": {
+    "id": 221,
+    "full_name": "Laboratorij LAMPA SP-45A",
+    "url": "/classroom/221/"
+  },
+  "270": {
+    "id": 270,
+    "full_name": "Laboratorij LAT SP-39",
+    "url": "/classroom/270/"
+  },
+  "226": {
+    "id": 226,
+    "full_name": "Laboratorij LAMPA SII-82",
+    "url": "/classroom/226/"
+  },
+  "202": {
+    "id": 202,
+    "full_name": "Laboratorij LANEM I/7",
+    "url": "/classroom/202/"
+  },
+  "234": {
+    "id": 234,
+    "full_name": "Laboratorij LAT SI-59",
+    "url": "/classroom/234/"
+  },
+  "250": {
+    "id": 250,
+    "full_name": "Laboratorij LOSK K-9",
+    "url": "/classroom/250/"
+  },
+  "197": {
+    "id": 197,
+    "full_name": "Laboratorij LASIN 702A",
+    "url": "/classroom/197/"
+  },
+  "239": {
+    "id": 239,
+    "full_name": "Laboratorij LAVAR SK-12",
+    "url": "/classroom/239/"
+  },
+  "240": {
+    "id": 240,
+    "full_name": "Laboratorij LATOP SII-81",
+    "url": "/classroom/240/"
+  },
+  "183": {
+    "id": 183,
+    "full_name": "Predavalnica II/3B",
+    "url": "/classroom/183/"
+  },
+  "196": {
+    "id": 196,
+    "full_name": "Predavalnica I/4A",
+    "url": "/classroom/196/"
+  },
+  "192": {
+    "id": 192,
+    "full_name": "Predavalnica IV/3B",
+    "url": "/classroom/192/"
+  }
+}
